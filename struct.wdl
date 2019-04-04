@@ -1,5 +1,3 @@
-version 1.0
-
 struct A {
   Int i
   Float f
